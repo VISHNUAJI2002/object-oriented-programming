@@ -1,4 +1,6 @@
 /*
+Experiment 7 :
+
 Initialize instance variables using class and method
 
 Aim:
