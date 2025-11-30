@@ -3,7 +3,7 @@ Experiment 2
 
 One-Dimensional Array
 
-Aim: Write a Java program to search an element in an array/
+Aim: Write a Java program to search an element in an array
 */
 
 import java.util.Scanner;
