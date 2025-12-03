@@ -6,7 +6,7 @@ String Handling Methods-2
 Aim:
 Write a Java program to
 i. Check whether a given string is palindrome or not.
-ii. Sorting a given list of names in ascending order.
+ii. Sorting a given list of names in ascending order.(check file NameSort.java)
 */
 
 import java.util.*;
