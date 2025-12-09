@@ -14,24 +14,28 @@ This separation clearly distinguishes academic work from independent learning an
 ```
 object-oriented-programming/
 │
-├── mca-s2/                  # MCA S2 curriculum exercises (CO2 programs)
-│   └── co2/
-│       ├── filename.java
-│       └── ...
+├── mca-s2/ # MCA S2 curriculum exercises (CO1–CO5)
+│ ├── co1/
+│ ├── co2/
+│ ├── co3/
+│ ├── co4/
+│ └── co5/
+│ ├── filename.java
+│ └── ...
 │
-├── java/                    # Personal Java OOP exploration
-│   ├── classes-and-objects/
-│   ├── inheritance/
-│   ├── polymorphism/
-│   ├── encapsulation/
-│   └── abstraction/
+├── java/ # Personal Java OOP exploration
+│ ├── classes-and-objects/
+│ ├── inheritance/
+│ ├── polymorphism/
+│ ├── encapsulation/
+│ └── abstraction/
 │
-└── python/                  # Personal Python OOP exploration
-    ├── classes-and-objects/
-    ├── inheritance/
-    ├── polymorphism/
-    ├── encapsulation/
-    └── abstraction/
+└── python/ # Personal Python OOP exploration
+├── classes-and-objects/
+├── inheritance/
+├── polymorphism/
+├── encapsulation/
+└── abstraction/
 ```
 
 Each folder contains one or more programs demonstrating the respective OOP concept using clean, focused examples.
