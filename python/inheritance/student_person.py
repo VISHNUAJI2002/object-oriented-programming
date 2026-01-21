@@ -40,8 +40,8 @@ for i in range(n):
 
 
 print("\n---Student Details---\n")
-for i in students:
-    i.show_student()    
+for obj in students:
+    obj.show_student()    
     print()
 
 
